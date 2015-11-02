@@ -1,0 +1,42 @@
+﻿body
+{
+    background-image: url('/images/back.jpg');
+    background-color: #34629d;
+    margin-top: 20px;
+}
+#editor
+{
+    height: 600px;
+    width: 100%;
+    border: 3px solid #799abc;
+}
+#rtxtOutput
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    border: 3px solid #799abc;
+}
+.clearage
+{
+    margin-top: 10px;
+}
+.panel
+{
+    width: 100%;
+    margin: 0px;
+}
+.title-wave
+{
+    width: 0px;
+    color: #FFF;
+    font-family: "Times New Roman" , Georgia, Serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#editor.hover
+{
+    border: 10px dashed #333;
+}
+
+
